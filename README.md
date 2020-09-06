@@ -7,3 +7,7 @@ quick codes for frequent needs
 //string = list
 
 string = list(map(int, numbers.split()))
+
+or
+
+nums = sorted(numbers.split(), key=int)
